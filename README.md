@@ -5,10 +5,16 @@ Use this template for the course ALP4.
 ## How To
 
 * fork this repository
-* add teaching assistant (TA) and your peers to this repository. 
+* add teaching assistant (TA) and peers to your fork.
 * give TA reporter role and your peers maintainer (or developer)
 * for every exercise, checkout either the *c-example* or the *java-example*
   branch and name the new branch accordingly
+
+The following example uses `git checkout` to create the new `Ueb01` branch based on the `c-example` branch from the remote "origin".
+
+```bash
+git checkout -b Ueb01 origin/c-example
+```
 
 ## Submission
 
