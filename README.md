@@ -25,5 +25,4 @@ Keep in mind this is specific to the course in Summer 2022!
 
 ## Contributions
 
-Feel free to open issues or submit merge requests for changes. Also you could
-fork this to prepare templates for other courses.
+Feel free to open issues or submit merge requests for changes. You may also fork this to prepare templates for other courses.
