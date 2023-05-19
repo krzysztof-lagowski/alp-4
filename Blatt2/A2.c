@@ -18,7 +18,7 @@ FILE *logfile; // File handle for log file
 
 // counter for bridge activity
 long counter = 0;
-long max_counter = 100000;
+long max_counter = 1000;
 // signifies the busyness of the bridge: 0 = empty; 1 = busy; 2 = there will be a crash
 bool busy = false;
 

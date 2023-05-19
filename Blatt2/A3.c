@@ -18,7 +18,7 @@ FILE *logfile; // File handle for log file
 // verschiedene Counter zu Brückenaktivität
 long crashcount = 0;
 long counter = 0;
-long max_counter = 100000;
+long max_counter = 1000;
 
 
 // Brücke besetzt -> true ; Brücke frei -> false
